@@ -41,4 +41,17 @@ Follow the steps below to add your details in the required format.
   - CSS    
 
 ---
+- **Name:** MITHUN M
+- **College:** KVG College of Engineering, Sullia  
+- **Semester:** 3rd  
+- **Year:** 2024  
+- **Projects:**  
+  1. Portfolio website  
+  2.Calculator Website
+  3.DC Character Showcase
+- **Technologies:**  
+  - HTML 
+  - CSS
+  - JS
+
 
